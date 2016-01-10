@@ -1,4 +1,4 @@
-#Warning
+# Warning
 This is the very first release and could fail on some objects.
 
 # Requirements
@@ -13,6 +13,10 @@ Click on Download ZIP and extract in your Sketchup plugins folder.
 * Click on Plugins and Slice me !
 * Select all newly created groups and explode it before exporting
 * Next you could use SVG Export plugin to adjust some things in SVG before sending to your laser cutting system.
+
+# In future
+* Input for material thickness (Coming soon)
+* Input for finger joints (Coming soon)
 
 # If you open an issue
 Please upload your sketchup file to help to understand the problem.  
